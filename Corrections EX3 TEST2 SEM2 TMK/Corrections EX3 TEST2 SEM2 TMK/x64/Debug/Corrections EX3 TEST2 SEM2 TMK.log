@@ -1,0 +1,30 @@
+﻿  Main EX3.c
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(13,7): error C2086: 'char tbMSGComplet[15]' : redéfinition
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(11): message : voir la déclaration de 'tbMSGComplet'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(27,15): error C2466: impossible d'allouer un tableau de taille constante 0
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(27,19): error C2075: 'tbMSGComplet' : l’initialisation nécessite une liste d’initialiseurs entre accolades
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(29,1): error C2040: 'strcpy' : les niveaux d'indirection de 'int ()' et de 'char *(char *,const char *)' sont différents
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(31,33): warning C4133: 'fonction' : types incompatibles - de 'int [1]' à 'const char *'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(31,34): error C2099: l'initialiseur n'est pas une constante
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(32,14): error C2057: expression constante attendue
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(32,20): error C2466: impossible d'allouer un tableau de taille constante 0
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(32,1): error C2374: 'tbMSGComplet' : redéfinition ; initialisation multiple
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(27): message : voir la déclaration de 'tbMSGComplet'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(32,31): error C2065: 'version' : identificateur non déclaré
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(33,21): error C2057: expression constante attendue
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(33,24): error C2466: impossible d'allouer un tableau de taille constante 0
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(33,1): error C2374: 'tbMSGComplet' : redéfinition ; initialisation multiple
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(27): message : voir la déclaration de 'tbMSGComplet'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(34,22): error C2059: erreur de syntaxe : 'chaîne'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(34,1): error C2040: 'strcat' : les niveaux d'indirection de 'int ()' et de 'char *(char *,const char *)' sont différents
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(35,30): error C2059: erreur de syntaxe : 'constante'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(35,1): error C2040: 'strncat' : les niveaux d'indirection de 'int ()' et de 'char *(char *,const char *,size_t)' sont différents
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(36,26): error C2059: erreur de syntaxe : 'constante'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(36,1): error C2040: 'itoa' : les niveaux d'indirection de 'int ()' et de 'char *(int,char *,int)' sont différents
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(37,1): error C2040: 'strcat' : les niveaux d'indirection de 'int ()' et de 'char *(char *,const char *)' sont différents
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(38,8): error C2143: erreur de syntaxe : absence de ')' avant 'chaîne'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(38,8): error C2143: erreur de syntaxe : absence de '{' avant 'chaîne'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(38,8): error C2059: erreur de syntaxe : 'chaîne'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(38,29): error C2059: erreur de syntaxe : ')'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(40,1): error C2059: erreur de syntaxe : 'return'
+C:\Programmation_TMK\Corrections PROG\Corrections EX3 TEST2 SEM2 TMK\Corrections EX3 TEST2 SEM2 TMK\Main EX3.c(41,1): error C2059: erreur de syntaxe : '}'
