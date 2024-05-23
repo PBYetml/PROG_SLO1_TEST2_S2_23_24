@@ -1,3 +1,4 @@
+/*
 //-- librairie standard --//
 #include <stdio.h>
 #include "Exercice4.h"		//J'ai mis Exercice4.h à la place de calcul.h
@@ -19,3 +20,4 @@ int Additionner(int* val1, int val2)
 	Resultat_Addition = val1 + val2;
 	return Resultat_Addition;
 }
+*/
