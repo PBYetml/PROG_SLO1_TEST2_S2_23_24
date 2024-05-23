@@ -1,0 +1,7 @@
+﻿  Main.c
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Besson_Nicolas\PROG\Solution_TE2_02.05.2024\Ex3\Ex3\Main.c(23,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Besson_Nicolas\PROG\Solution_TE2_02.05.2024\Ex3\Ex3\Main.c(27,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Besson_Nicolas\PROG\Solution_TE2_02.05.2024\Ex3\Ex3\Main.c(32,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Besson_Nicolas\PROG\Solution_TE2_02.05.2024\Ex3\Ex3\Main.c(37,5): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Besson_Nicolas\PROG\Solution_TE2_02.05.2024\Ex3\Ex3\Main.c(40,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Ex3.vcxproj -> O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Besson_Nicolas\PROG\Solution_TE2_02.05.2024\Ex3\x64\Debug\Ex3.exe
