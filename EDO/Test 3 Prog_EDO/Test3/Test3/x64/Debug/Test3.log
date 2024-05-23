@@ -1,0 +1,5 @@
+﻿  Q3.c
+C:\EDA\PROG\Test3\EDO\Test 3 Prog_EDO\Test3\Test3\Q3.c(41,2): warning C4013: 'itoa' non défini(e) ; extern retournant int pris par défaut
+C:\EDA\PROG\Test3\EDO\Test 3 Prog_EDO\Test3\Test3\Q3.c(47,2): warning C4098: 'main' : fonction 'void' retournant une valeur
+C:\EDA\PROG\Test3\EDO\Test 3 Prog_EDO\Test3\Test3\Q3.c(34,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Test3.vcxproj -> C:\EDA\PROG\Test3\EDO\Test 3 Prog_EDO\Test3\x64\Debug\Test3.exe
