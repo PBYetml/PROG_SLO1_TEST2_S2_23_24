@@ -13,7 +13,7 @@ void main()
 	char tbMSGComplet[15];								// Déclaration d'un tableau de 16 cases
 	int annee = 2022;									// Initialisation de la variable année à 2022
 	char version = 0x33;								//--> voir la table ASCII "3"
-	char anneeChaine[5];								// Stocke l'année sous forme d'une uite de caractères
+	char anneeChaine[5];								// Stocke l'année sous forme d'une suite de caractères
 
 	//... vos instructions
 	tbMSGComplet[0] = '\0';								// Initialise "tbMSGComplet" en tant qu'une suite de caractère vide
