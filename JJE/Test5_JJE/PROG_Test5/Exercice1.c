@@ -2,11 +2,11 @@
 //Exercice 1 Test 2 Semestre 2
 
 //1ère instruction
-
+char* strcpy(char* tbValY[19], char* tbValX[]);
 
 //2ème instruction
-tbVar[9] = recup;
+recup = tbVar[9];
 
 //3ème instruction
-scanf(valeurClavier) = tbVarf[5];
+scanf ("%f", &tbVarf[4]);
 */

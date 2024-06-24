@@ -1,0 +1,11 @@
+﻿  Exercice3.c
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(38,2): warning C4098: 'main' : fonction 'void' retournant une valeur
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(23,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(27,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(29,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(31,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\Exercice3.c(34,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PROG_Test3.vcxproj -> C:\Users\jerjeanelie\Documents\GitHub\PROG_SLO1_TEST2_S2_23_24\JJE\Test5_JJE\PROG_Test5\x64\Debug\PROG_Test5.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

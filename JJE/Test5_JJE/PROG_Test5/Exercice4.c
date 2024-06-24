@@ -1,9 +1,7 @@
+/*
 //-- librairie standard --//
 #include <stdio.h>
 #include "Exercice4.h"		//J'ai mis Exercice4.h à la place de calcul.h
-
-//-- déclaration de prototype --//
-int Additionner(int val1, int val2);
 
 //-- programme principal --//
 int main(void)
@@ -13,3 +11,13 @@ int main(void)
 
 	Resul_Addition = Additionner(&val1, &val2);
 }
+
+//ADDITION
+int Additionner(int* val1, int val2)
+{
+	int Resultat_Addition = 0;
+
+	Resultat_Addition = val1 + val2;
+	return Resultat_Addition;
+}
+*/
