@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//----------d�clarations don�es----------
+//----------déclarations donées----------
 #define TITRE "TEST"
 
 void main()
@@ -16,31 +16,33 @@ void main()
 
 	// Question 3
 
-	strcat(pt_message, version, tbMSH, annee);	// Cr�ation du message "TEST3 SLO2022"
-	strcpy(tbMSGComplet, pt_message, strlen(tbMSGComplet));	// Copie du message "TEST3 SLO2022" dans tbMSGComplet
-	
-	printf("Message : %s\n", tbMSGComplet);	// Affichage du message "TEST3 SLO2022"
+	// Copie du titre dans tbMSGComplet
+	strcpy_s(tbMSGComplet, sizeof(tbMSGComplet), pt_message);
+
+	// Ajout de la version au message
+	char versionStr[2] = { version, '\0' };
+	strcat_s(tbMSGComplet, sizeof(tbMSGComplet), versionStr);
+
+	// Ajout d'un espace
+	strcat_s(tbMSGComplet, sizeof(tbMSGComplet), " ");
+
+	// Ajout de SLO
+	strncat_s(tbMSGComplet, sizeof(tbMSGComplet), tbMSH, sizeof(tbMSH));
+
+	// Ajout d'un caractère vide
+	tbMSGComplet[strlen(tbMSGComplet)] = '\0'; // Ajout explicite du caractère nul
+
+	// Conversion de l'anée en chaîne
+	char anneeStr[5];
+	itoa(annee, anneeStr, 10); // Utilisation de itoa pour convertir l'année en chaîne de caractères
+	strcat_s(tbMSGComplet, sizeof(tbMSGComplet), anneeStr);
+
+	// Lecture de la longeur du message
+	size_t length = strlen(tbMSGComplet);
+
+	// Affichage du message final
+	printf_s("Message : %s\n", tbMSGComplet);	// Doit afficher "TEST3 SLO2022"
+	printf_s("Longueur du message : %zu\n", length);	// Afficher la longueur du message
+
+	return 0;
 }
-
-
-// Question 4
-/*
-
-double Additioner(int val1, int val2)
-{
-	double Resultat_Addition = val1 + (double)val2;
-
-	return (int)Resultat_Addition;
-}
-
-double Additionner(int val1, int val2);
-
-int main(void)
-{
-	int val1 = 130, val2 = -8;
-	double Resul_Addition = 0;
-
-	Resul_Addition = Additionner(&val1, &val2);
-}
-
-*/
