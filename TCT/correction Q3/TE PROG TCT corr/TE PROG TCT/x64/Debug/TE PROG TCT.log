@@ -1,0 +1,9 @@
+﻿  Source.c
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(72,2): warning C4098: 'main' : fonction 'void' retournant une valeur
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(55,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(57,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(61,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(63,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(65,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\TE PROG TCT\Source.c(68,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TE PROG TCT.vcxproj -> O:\APPLICATIONS\Echanges_Eleves\ES\SLO1\Choulat_Tassilo\PROG\TE\TE PROG TCT\x64\Debug\TE PROG TCT.exe
